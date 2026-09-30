@@ -1,0 +1,9 @@
+Female model files in this folder (*.bin.gz, manifest.json)
+
+Derived from the Human Reference Atlas (HRA) united female reference model v1.5,
+HuBMAP / CCF (https://humanatlas.io/), licensed CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/).
+
+Changes: pregnancy structures and schematic lymph-node interior removed; eyelid openings cut
+in the skin; skin creases smoothed; organs and brain simplified; reclassified into layers and
+regions; colours added; packed into compressed binary buffers for web display.

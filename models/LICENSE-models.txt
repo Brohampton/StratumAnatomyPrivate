@@ -1,0 +1,16 @@
+Male model files in this folder (*.bin.gz, manifest.json)
+
+Derived from:
+- Z-Anatomy, the libre 3D atlas of anatomy (https://www.z-anatomy.com/), licensed CC BY-SA 4.0,
+  itself built on BodyParts3D.
+- BodyParts3D 4.0, (c) The Database Center for Life Science (DBCLS), licensed CC BY 4.0
+  (https://dbarchive.biosciencedbc.jp/en/bodyparts3d/). Skin, hair and lips taken from here
+  and warped onto the Z-Anatomy skeleton.
+
+Changes: geometry simplified, re-oriented, reclassified into layers and regions, colours added,
+eyelid openings cut in the skin, hair lifted onto the scalp, packed into compressed binary
+buffers for web display.
+
+These derived files are shared under Creative Commons Attribution-ShareAlike 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/). Keep this notice if you redistribute them.
+The female model in models/female has its own licence file.
